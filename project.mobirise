@@ -91,7 +91,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "publishEditFolder": true,
+    "publishEditFolder": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
